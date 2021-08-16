@@ -5,7 +5,7 @@
   "version": "0.1.25",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rranauro/ObjTree.git"
+    "url": "git://github.com/assaydepot/ObjTree.git"
   },
   "scripts": {
     "test": "node ./test/example.js"
